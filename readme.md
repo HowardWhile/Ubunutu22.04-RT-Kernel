@@ -34,6 +34,26 @@ If you accidentally enter the GRUB command line by pressing ESC too many times, 
 
 
 
+
+
+## Update
+
+### 5.10
+
+https://www.kernel.org/pub/linux/kernel/v5.x/
+
+https://www.kernel.org/pub/linux/kernel/projects/rt/5.10/
+
+| version       | release    | compile    |
+| ------------- | ---------- | ---------- |
+| 5.10.168-rt83 | 2023-02-19 | 2023-02-23 |
+|               |            |            |
+|               |            |            |
+
+
+
+
+
 ## Real-Time Config
 
 ```she
