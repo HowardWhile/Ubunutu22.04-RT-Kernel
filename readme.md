@@ -44,11 +44,11 @@ https://www.kernel.org/pub/linux/kernel/v5.x/
 
 https://www.kernel.org/pub/linux/kernel/projects/rt/5.10/
 
-| version           | release    | compile    |
-| ----------------- | ---------- | ---------- |
-| **5.10.168-rt83** | 2023-02-19 | 2023-02-23 |
-|                   |            |            |
-|                   |            |            |
+| version                                                      | release    | compile    |
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [5.10.168-rt83](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.10.168-rt83) | 2023-02-19 | 2023-02-23 |
+|                                                              |            |            |
+|                                                              |            |            |
 
 
 
@@ -58,11 +58,11 @@ https://www.kernel.org/pub/linux/kernel/v5.x/
 
 https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/
 
-| version          | release    | compile    |
-| ---------------- | ---------- | ---------- |
-| **5.15.94-rt59** | 2023-02-17 | 2023-02-23 |
-|                  |            |            |
-|                  |            |            |
+| version                                                      | release    | compile    |
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [5.15.94-rt59](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.94-rt59) | 2023-02-17 | 2023-02-23 |
+|                                                              |            |            |
+|                                                              |            |            |
 
 
 
