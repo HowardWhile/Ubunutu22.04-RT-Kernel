@@ -8,6 +8,37 @@ This repository is used by me to store compiled Ubuntu 22.04 real-time (PREEMPT_
 
 
 
+## Update
+
+### 5.10
+
+https://www.kernel.org/pub/linux/kernel/v5.x/
+
+https://www.kernel.org/pub/linux/kernel/projects/rt/5.10/
+
+| version                                                      | release    | compile    |
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [5.10.168-rt83](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.10.168-rt83) | 2023-02-19 | 2023-02-23 |
+| -                                                            |            |            |
+|                                                              |            |            |
+
+
+
+### 5.15
+
+https://www.kernel.org/pub/linux/kernel/v5.x/
+
+https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/
+
+| version                                                      | release    | compile    |
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [5.15.96-rt61](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.96-rt61) | 2023-02-28 | 2023-03-01 |
+| [5.15.94-rt59](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.94-rt59) | 2023-02-17 | 2023-02-23 |
+
+
+
+
+
 ## Install
 
 First, download the kernel installation files (*.deb). A kernel version includes the following three files:
@@ -33,36 +64,6 @@ If you accidentally enter the GRUB command line by pressing ESC too many times, 
 ![image-20230223103246880](pic/readme/image-20230223103246880.png)
 
 
-
-
-
-## Update
-
-### 5.10
-
-https://www.kernel.org/pub/linux/kernel/v5.x/
-
-https://www.kernel.org/pub/linux/kernel/projects/rt/5.10/
-
-| version                                                      | release    | compile    |
-| ------------------------------------------------------------ | ---------- | ---------- |
-| [5.10.168-rt83](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.10.168-rt83) | 2023-02-19 | 2023-02-23 |
-|                                                              |            |            |
-|                                                              |            |            |
-
-
-
-### 5.15
-
-https://www.kernel.org/pub/linux/kernel/v5.x/
-
-https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/
-
-| version                                                      | release    | compile    |
-| ------------------------------------------------------------ | ---------- | ---------- |
-| [5.15.94-rt59](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.94-rt59) | 2023-02-17 | 2023-02-23 |
-|                                                              |            |            |
-|                                                              |            |            |
 
 
 
