@@ -20,7 +20,6 @@ https://www.kernel.org/pub/linux/kernel/projects/rt/5.10/
 | ------------------------------------------------------------ | ---------- | ---------- |
 | [5.10.168-rt83](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.10.168-rt83) | 2023-02-19 | 2023-02-23 |
 | -                                                            |            |            |
-|                                                              |            |            |
 
 
 
@@ -35,7 +34,7 @@ https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/
 | [5.15.107-rt62](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.107-rt62) | 2023-04-19 | 2023-04-25 |
 | [5.15.96-rt61](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.96-rt61) | 2023-02-28 | 2023-03-01 |
 | [5.15.94-rt59](https://github.com/HowardWhile/Ubunutu22.04-RT-Kernel/releases/tag/5.15.94-rt59) | 2023-02-17 | 2023-02-23 |
-|                                                              |            |            |
+| -                                                            |            |            |
 
 
 
